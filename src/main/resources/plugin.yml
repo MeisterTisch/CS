@@ -1,6 +1,6 @@
 name: CraftingStrike
 version: '${version}'
 main: user.meistertisch.cs.Main
-api-version: '1.20'
+api-version: '1.21'
 authors: [MeisterTisch]
 description: 'This is Counter Strike in Minecraft! Crafting Strike: Global Mining'
